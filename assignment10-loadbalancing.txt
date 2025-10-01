@@ -1,0 +1,4 @@
+student_name=Yixuan Chen
+api_domain_name=api.yixuan016.me
+assignment_repository=https://github.com/neu-csye6245/assignment-2-cloud-native-web-application-YixuanChen-Stella
+terraform_repository=https://github.com/neu-csye6245/cloud-project-terraform-aws-infra-YixuanChen-Stella
